@@ -1,0 +1,31 @@
+.education{
+    padding: 30px 0;
+    margin: 50px 0;
+    padding-left: 120px;
+}
+
+.education hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.education h2{
+    font-weight: bold;
+    color: #138781;
+}
+
+.classedu{
+    color: #138781;
+}
+.schooledu{
+    color: #138781;
+    font-size: 18px;
+}
+
+@media (max-width : 600px) {
+    .education {
+        padding-left: 0px;
+    }
+
+}
