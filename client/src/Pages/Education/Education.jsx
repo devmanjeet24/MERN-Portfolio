@@ -8,7 +8,7 @@ const Education = () => {
     return (
         <>
             <div className="container education" id='education'>
-                <h2 className='col-12 mt-3 mb-1 text-center'>Top Recents Projects</h2>
+                <h2 className='col-12 mt-3 mb-1 text-center'>Education</h2>
                 <hr />
                 <p className='text-center pb-3'>👉 A showcase of my latest work and innovations.</p>
 

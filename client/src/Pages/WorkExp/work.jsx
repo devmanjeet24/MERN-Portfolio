@@ -11,7 +11,7 @@ const Workexp = () => {
             <div className=" work" id='workexp'>
                 <div className="container ">
                     <div className='work-exp'>
-                        <h2 className='col-12 mt-3 mb-1 text-center'>Top Recents Projects</h2>
+                        <h2 className='col-12 mt-3 mb-1 text-center'>My Experience</h2>
                         <hr />
                         <p className='text-center pb-3'>👉 A showcase of my latest work and innovations.</p>
 
@@ -35,7 +35,7 @@ const Workexp = () => {
                                 className="vertical-timeline-element--work"
                                 contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                                 contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-                                date="2024 - 2025"
+                                date="2024 - Present"
                                 iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                                 icon={<MdOutlineWork  />}
                             >

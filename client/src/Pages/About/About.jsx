@@ -12,7 +12,7 @@ const About = () => {
 
                 <div className="col-md-7 about-content">
                   <h2>About Me</h2>
-                  <p>Hi, I’m Manjeet Singh, a passionate Frontend Developer and Web Designer with 1.5 years of freelance experience in creating modern and responsive interfaces using HTML, CSS, JavaScript, and Figma. I love turning design ideas into smooth, interactive, and user-friendly web experiences. 
+                  <p>Hi, I’m Manjeet Singh, a passionate Full-stack Developer and Web Designer with 1.5 years of freelance experience in creating modern and responsive interfaces using HTML, CSS, JavaScript, and Figma. I love turning design ideas into smooth, interactive, and user-friendly web experiences. 
                     <br />
 
                     Over the past few years, I’ve worked on multiple projects — from restaurant and doctor websites to eCommerce and full-stack applications. My focus is always on crafting clean, maintainable code and delivering pixel-perfect designs that perform beautifully on every device.
