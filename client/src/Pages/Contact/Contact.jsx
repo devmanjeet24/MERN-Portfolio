@@ -36,8 +36,8 @@ const Contact = () => {
                             <div className="col-md-6 col-lg-6 col-sm-12">
 
                                 <div className="card1">
-                                    <div className="row border-line">
-                                        <img src="../../../public/Images/Contact.png" alt="" />
+                                    <div className="row border-line d-flex align-items-center justify-content-center">
+                                        <img src="../../../Images/contactn.jpg" alt="" />
                                     </div>
                                 </div>
 
@@ -48,9 +48,9 @@ const Contact = () => {
                                 <div className="card2 d-flex card border-0 px-2 py-5">
                                     <div className="row">
                                         <div className="row">
-                                            <h6>Contact with
-                                                <FaLinkedin color='blue' className='ms-2' size={28} />
-                                                <FaGithub color='black' className='ms-2' size={28} />
+                                            <h6 className='headcontact'>Contact with
+                                               <a href="https://www.linkedin.com/in/devmanjeet/"> <FaLinkedin color='blue' className='ms-2' size={28} /></a>
+                                              <a href="https://github.com/devmanjeet24"> <FaGithub color='black' className='ms-2' size={28} /></a>
                                             </h6>
 
 
